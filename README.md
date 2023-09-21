@@ -1,1 +1,1 @@
-# advSimboloOlimpico-PROJETO
+SimboloOlimpico-PROJETO
